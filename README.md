@@ -3,7 +3,7 @@ This project demonstrates Automated Exploratory Data Analysis (EDA) using the Au
 
 The project uses the Iris flower dataset loaded through Seaborn and applies AutoViz to analyze relationships, feature distributions, correlations, and class-wise comparisons.
 
-🚀 Features
+#🚀 Features
 Load the Iris dataset using Seaborn
 Perform automated exploratory data analysis
 Generate multiple visualizations with a single command
@@ -12,16 +12,15 @@ Compare feature distributions across Iris species
 Explore correlations among variables
 Save generated plots for future use
 Customize AutoViz using different parameters such as:
-depVar
-verbose
-lowess
-chart_format
-max_rows_analyzed
-max_cols_analyzed
-📊 Visualizations Generated
-
+ depVar
+ verbose
+ lowess
+ chart_format
+ max_rows_analyzed
+ max_cols_analyzed
+ 
+#📊 Visualizations Generated
 AutoViz automatically creates various plots, including:
-
 📈 Histograms
 📦 Box Plots
 🌸 Violin Plots
@@ -34,24 +33,21 @@ AutoViz automatically creates various plots, including:
 Python
 Google Colab
 AutoViz
-Pandas
 Seaborn
 Matplotlib
-📂 Dataset
 
+#📂 Dataset
 Dataset: Iris Dataset
-
 Features:
-
-Sepal Length
-Sepal Width
-Petal Length
-Petal Width
+ Sepal Length
+ Sepal Width
+ Petal Length
+ Petal Width
 
 Target Variable:
-
 Species
-🎯 Learning Objectives
+
+#🎯 Learning Objectives
 Understand Automated Exploratory Data Analysis (EDA)
 Learn how to use the AutoViz library
 Explore visualization techniques with minimal code
